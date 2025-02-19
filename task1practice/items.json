@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Aliaskar",
+        "category": "laptop",
+        "location": "shym",
+        "date_found": "01-09-2003",
+        "claimed": true
+    },
+    {
+        "id": 2,
+        "name": "laptop",
+        "category": "notebook",
+        "location": "sdu",
+        "date_found": "01-03-2024",
+        "claimed": true
+    },
+    {
+        "id": 3,
+        "name": "laptop",
+        "category": "notebook",
+        "location": "ab",
+        "date_found": "01-20-3032",
+        "claimed": false
+    }
+]
